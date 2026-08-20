@@ -9,3 +9,4 @@
 
 - RNF-001: Los cambios de corrección deben ser trazables mediante Issue, commit y Pull Request.
 - RNF-002: El versionado seguirá SemVer mediante tags y changelog.
+- REQ-003: El sistema permitirá filtrar juguetes por fecha de ingreso (pendiente de definir criterios).
