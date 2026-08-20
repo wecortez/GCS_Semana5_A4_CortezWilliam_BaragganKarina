@@ -1,1 +1,7 @@
+# Configuración local sensible
 config/.env
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
